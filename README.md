@@ -1,10 +1,5 @@
 # 📊 HR Dashboard – Tableau Project
 
-![GitHub Repo Size](https://img.shields.io/github/repo-size/your-username/hr-dashboard?style=for-the-badge) 
-![GitHub Issues](https://img.shields.io/github/issues/your-username/hr-dashboard?style=for-the-badge) 
-![License](https://img.shields.io/github/license/your-username/hr-dashboard?style=for-the-badge) 
-![Made with Tableau](https://img.shields.io/badge/Made%20With-Tableau-blue?style=for-the-badge&logo=tableau)
-
 ---
 
 ## 📝 Project Overview
@@ -24,38 +19,44 @@ It combines **key HR metrics**, **demographics insights**, and **salary analytic
 
 ## 🌟 Features
 
-### **1️⃣ Overview Metrics**
-- 📊 Total Hired, Active, and Terminated Employees
-- 📈 Hiring & Termination Trends Over Years
-- 🏢 HQ vs Branch Comparison (HQ: New York)
-- 🗂 Department & Job Title Distribution
+
 
 ### **2️⃣ Demographics Analysis**
 - 👩‍💼 Gender Ratio Visualization
 - 🎓 Education Level Breakdown
 - 🎂 Age Group Distribution
 - 📌 Education vs Performance Correlation
-
 ### **3️⃣ Income Analysis**
 - 💰 Salary Comparison by Gender & Education
 - 📈 Age vs Salary Analysis per Department
 - 🔍 Pay Gap & Trend Detection
+  
+
+## 📸 Dashboard Preview
+
+| **Demographics** |
+|--------------|
+| <img src="summary.jpeg" width="100%"> |
+
+
+  
+### **1️⃣ Overview Metrics**
+- 📊 Total Hired, Active, and Terminated Employees
+- 📈 Hiring & Termination Trends Over Years
+- 🏢 HQ vs Branch Comparison (HQ: New York)
+- 🗂 Department & Job Title Distribution
+
+|  **Overview** | 
+|---------------------|
+| <img src="Details.jpeg" width="100%"> |
 
 ### **4️⃣ Employee Records**
 - 📋 Interactive Employee Table
 - 🔍 Filter by Department, City, Age, Education, etc.
 
----
-
-## 📸 Dashboard Preview
-
-| **Overview** | **Demographics** |
-|--------------|------------------|
-| <img src="path-to-overview.png" width="100%"> | <img src="path-to-demographics.png" width="100%"> |
-
-| **Income Analysis** | **Employee Records** |
-|---------------------|----------------------|
-| <img src="path-to-income.png" width="100%"> | <img src="path-to-records.png" width="100%"> |
+| **Info** | 
+|---------------------|
+| <img src="info.jpeg" width="100%"> |
 
 ---
 
@@ -91,10 +92,4 @@ It combines **key HR metrics**, **demographics insights**, and **salary analytic
 ## 👨‍💻 Author
 **Akhil Appaso Shinde**  
 📍 Data Analytics & BI Enthusiast  
-🌐 GitHub: [your-username](https://github.com/your-username)  
-🔗 LinkedIn: [your-linkedin](https://linkedin.com/in/your-linkedin)  
-
 ---
-
-## 📝 License
-This project is licensed under the **MIT License** – see the [LICENSE](LICENSE) file for details.
